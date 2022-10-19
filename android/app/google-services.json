@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "527429221572",
+    "project_id": "witz-bb65e",
+    "storage_bucket": "witz-bb65e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527429221572:android:336b1a6e45261ad4f69d91",
+        "android_client_info": {
+          "package_name": "com.example.witz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527429221572-listh31080f6e3rt7fguqv03pe7f7grl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.witz",
+            "certificate_hash": "419c2ab337c34c27b2849d989f34a704f00cd5ae"
+          }
+        },
+        {
+          "client_id": "527429221572-glitptadd6dbop3om56597fajfk8qe0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVRImybNVyEt-Ki9Jvp-4NNNSUTN7kt1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527429221572-glitptadd6dbop3om56597fajfk8qe0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
